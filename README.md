@@ -28,3 +28,7 @@ With your knowledge of machine learning and neural networks, you’ll use the fe
   * I was not able to achieve the target model performance.
 * What steps did you take to try and increase model performance?
   *  In attempt 1 I increased the number of neurons in the hidden layers. In attempt 2 I added a hidden layer. In attempt 3 I increased the number of epochs. All attempts failed to reach the desired outcome.
+  
+## Summary
+* Despite multiple attempts, the model didnt reach the desired outcome of 75% accuracy.
+* A supervised machine learning model, like Random Forest Classifier, might be a better option.
